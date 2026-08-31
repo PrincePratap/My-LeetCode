@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/PrincePratap/My-LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0303-range-sum-query-immutable](https://github.com/PrincePratap/My-LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/PrincePratap/My-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrincePratap/My-LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/PrincePratap/My-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/PrincePratap/My-LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrincePratap/My-LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0303-range-sum-query-immutable](https://github.com/PrincePratap/My-LeetCode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/PrincePratap/My-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 ## Quicksort
 | Problem Name | Difficulty |
