@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/PrincePratap/My-LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/PrincePratap/My-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrincePratap/My-LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -18,17 +19,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/PrincePratap/My-LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/PrincePratap/My-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/PrincePratap/My-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrincePratap/My-LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0088-merge-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/PrincePratap/My-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,4 +54,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PrincePratap/My-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/PrincePratap/My-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 <!---LeetCode Topics End-->
