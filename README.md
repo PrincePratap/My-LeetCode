@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0202-happy-number](https://github.com/PrincePratap/My-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/PrincePratap/My-LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/PrincePratap/My-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrincePratap/My-LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -40,11 +41,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/PrincePratap/My-LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0202-happy-number](https://github.com/PrincePratap/My-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/PrincePratap/My-LeetCode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/PrincePratap/My-LeetCode/tree/main/0009-palindrome-number/) | Easy |
+| [0202-happy-number](https://github.com/PrincePratap/My-LeetCode/tree/main/0202-happy-number/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/PrincePratap/My-LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -84,4 +87,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/PrincePratap/My-LeetCode/tree/main/0645-set-mismatch/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/PrincePratap/My-LeetCode/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
