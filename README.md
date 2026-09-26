@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/PrincePratap/My-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0242-valid-anagram](https://github.com/PrincePratap/My-LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [1528-shuffle-string](https://github.com/PrincePratap/My-LeetCode/tree/main/1528-shuffle-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/PrincePratap/My-LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0645-set-mismatch](https://github.com/PrincePratap/My-LeetCode/tree/main/0645-set-mismatch/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/PrincePratap/My-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1528-shuffle-string](https://github.com/PrincePratap/My-LeetCode/tree/main/1528-shuffle-string/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
