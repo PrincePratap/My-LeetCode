@@ -40,6 +40,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0054-spiral-matrix](https://github.com/PrincePratap/My-LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/PrincePratap/My-LeetCode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/PrincePratap/My-LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/PrincePratap/My-LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -154,4 +155,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/PrincePratap/My-LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/PrincePratap/My-LeetCode/tree/main/0054-spiral-matrix/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0054-spiral-matrix](https://github.com/PrincePratap/My-LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 <!---LeetCode Topics End-->
