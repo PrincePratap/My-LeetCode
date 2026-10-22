@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/PrincePratap/My-LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/PrincePratap/My-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [1528-shuffle-string](https://github.com/PrincePratap/My-LeetCode/tree/main/1528-shuffle-string/) | Easy |
+| [2299-strong-password-checker-ii](https://github.com/PrincePratap/My-LeetCode/tree/main/2299-strong-password-checker-ii/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
