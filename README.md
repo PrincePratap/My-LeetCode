@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/PrincePratap/My-LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0575-distribute-candies](https://github.com/PrincePratap/My-LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/PrincePratap/My-LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [1002-find-common-characters](https://github.com/PrincePratap/My-LeetCode/tree/main/1002-find-common-characters/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/PrincePratap/My-LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0443-string-compression](https://github.com/PrincePratap/My-LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0647-palindromic-substrings](https://github.com/PrincePratap/My-LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
+| [1002-find-common-characters](https://github.com/PrincePratap/My-LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1528-shuffle-string](https://github.com/PrincePratap/My-LeetCode/tree/main/1528-shuffle-string/) | Easy |
 | [2299-strong-password-checker-ii](https://github.com/PrincePratap/My-LeetCode/tree/main/2299-strong-password-checker-ii/) | Easy |
 ## Sorting
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/PrincePratap/My-LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0575-distribute-candies](https://github.com/PrincePratap/My-LeetCode/tree/main/0575-distribute-candies/) | Easy |
 | [0645-set-mismatch](https://github.com/PrincePratap/My-LeetCode/tree/main/0645-set-mismatch/) | Easy |
+| [1002-find-common-characters](https://github.com/PrincePratap/My-LeetCode/tree/main/1002-find-common-characters/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/PrincePratap/My-LeetCode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1528-shuffle-string](https://github.com/PrincePratap/My-LeetCode/tree/main/1528-shuffle-string/) | Easy |
 ## Two Pointers
