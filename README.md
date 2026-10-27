@@ -193,4 +193,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/PrincePratap/My-LeetCode/tree/main/0322-coin-change/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0182-duplicate-emails](https://github.com/PrincePratap/My-LeetCode/tree/main/0182-duplicate-emails/) | Easy |
 <!---LeetCode Topics End-->
